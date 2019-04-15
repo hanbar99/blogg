@@ -4,6 +4,14 @@
     <title>Blogg</title>
   </head>
   <body>
-    <h1>Vår fine blogg</h1>
+    <head>
+    
+    </head>
+    <div id="container">
+      <h1>Vår fine blogg</h1>
+    </div>
+    <footer>
+      <p>Copyright Hannah Bartmar & Sara Borgersen</p>
+    </footer>
   </body>
 </html>
